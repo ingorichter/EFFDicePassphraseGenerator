@@ -1,4 +1,4 @@
-import {DiceWelcome} from '@/components/DiceWelcome/DiceWelcome';
+import { DiceWelcome } from '@/components/DiceWelcome/DiceWelcome';
 
 export default {
     title: 'Dice Welcome',
