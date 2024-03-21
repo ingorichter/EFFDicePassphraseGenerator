@@ -116,7 +116,7 @@ export function DiceRoller() {
                 rollDice6Times();
               }}
             >
-              Roll 6 Dice 6 times
+              Roll 5 Dice 6 times
             </Button>
             <Button variant="" onClick={() => resetPassphrase()}>
               Reset Passphrase
