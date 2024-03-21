@@ -6,7 +6,7 @@ The project provides a passphrase generator app that leverages the [EFF long wor
 to pick a word to build the passphrase.
 
 The project is based on [this](https://github.com/mantinedev/vite-template) great Mantine + Vite template.
-The UI is based on [Mantine](https://mantine.dev) to providea good looking UI.
+The UI is based on [Mantine](https://mantine.dev) to provide a good looking UI.
 
 - [PostCSS](https://postcss.org/) with [mantine-postcss-preset](https://mantine.dev/styles/postcss-preset)
 - [TypeScript](https://www.typescriptlang.org/)
