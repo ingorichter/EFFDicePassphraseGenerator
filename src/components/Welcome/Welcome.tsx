@@ -17,9 +17,8 @@ export function Welcome() {
         <Anchor href="https://mantine.dev/guides/vite/" size="lg">
           this guide
         </Anchor>
-        . To get started edit pages/Home.page.tsx file.
-          {' '}
-          <Center>
+        . To get started edit pages/Home.page.tsx file.{' '}
+        <Center>
           <Anchor
             component={Link}
             variant="gradient"
@@ -28,9 +27,9 @@ export function Welcome() {
             fz="xl"
             to="/dice"
           >
-              Roll the Dices to generate Passphrases
+            Roll the Dices to generate Passphrases
           </Anchor>
-          </Center>
+        </Center>
       </Text>
     </>
   );
